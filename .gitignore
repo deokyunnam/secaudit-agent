@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+chroma_db/
+*.sqlite
+data/reference/*.pdf
+
+# 주요정보통신기반시설 상세가이드 원문 (KISA 이용 조건 · 제출본에서 제외 · data/extract_kisa.py 로 생성)
+data/kisa_guide/
+
+# 개인 기획서 (제출 zip 과 동일하게 제외)
+기획서(남덕윤).md
+기획서(양식).txt

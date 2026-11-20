@@ -1,0 +1,7 @@
+RAGAS 대상 14문항: ['mp-01', 'mp-02', 'mp-03', 'mp-04', 'mp-05', 'mp-07', 'mp-08', 'mp-09', 'mp-16', 'mp-17', 'mp-18', 'mp-23', 'mp-26', 'mp-27']
+========== RAGAS 평균 ==========
+  context_recall: 0.867
+  llm_context_precision_with_reference: 0.923
+  faithfulness: 0.725
+  answer_relevancy: 0.521
+결과 파일: C:\Users\SDS\Desktop\sds-ax-practice\minipjt\evaluation\results\round2_ragas.json

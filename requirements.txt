@@ -1,0 +1,29 @@
+# SecAudit-Agent 미니 PJT
+
+# 공통
+boto3
+python-dotenv
+
+# LangChain / LangGraph
+langchain
+langchain-aws
+langchain-community
+langchain-text-splitters
+langgraph
+
+# MCP 서버 연동 (실시간 웹 검색 · Day 4 DuckDuckGo MCP 서버)
+mcp==1.30.0
+langchain-mcp-adapters
+duckduckgo-mcp-server==0.6.1
+
+# RAG
+langchain-chroma
+
+# API 서버
+fastapi
+uvicorn
+
+# 트레이스 · 평가 (Day 9)
+langsmith
+ragas
+pandas
